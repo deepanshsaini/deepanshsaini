@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepanshsaini
-- 👀 I’m interested in cyber secuity and DevSecOps
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Cyber Secuity and DevSecOps
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
